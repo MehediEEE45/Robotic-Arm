@@ -1,0 +1,5 @@
+../Core/Src/touch_button.c:9:6:touchInit	1
+../Core/Src/touch_button.c:15:6:drawButton	1
+../Core/Src/touch_button.c:36:6:isButtonPressed	6
+../Core/Src/touch_button.c:54:6:getTouchPosition	2
+../Core/Src/touch_button.c:70:6:drawRecordButton	1

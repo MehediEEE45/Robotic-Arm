@@ -1,0 +1,11 @@
+../Core/Src/servo.c:66:13:Servo_SetPulse	24	static
+../Core/Src/servo.c:74:16:Servo_AngleToKnobX	16	static
+../Core/Src/servo.c:80:16:Servo_KnobXToAngle	24	static
+../Core/Src/servo.c:95:13:Servo_DrawRow	32	static
+../Core/Src/servo.c:134:13:Servo_DrawLabels	16	static
+../Core/Src/servo.c:147:13:Servo_DrawPresets	16	static
+../Core/Src/servo.c:157:6:Servo_Init	24	static
+../Core/Src/servo.c:197:6:Servo_Process	40	static
+../Core/Src/servo.c:249:6:Servo_UpdateState	40	static
+../Core/Src/servo.c:301:9:Servo_IsHomePressed	16	static
+../Core/Src/servo.c:307:6:Servo_ResetView	16	static

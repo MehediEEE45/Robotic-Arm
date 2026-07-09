@@ -1,0 +1,8 @@
+../Core/Src/serial.c:4:6:serialInit	1
+../Core/Src/serial.c:12:6:serialFlush	2
+../Core/Src/serial.c:18:6:serialWrite	1
+../Core/Src/serial.c:24:6:serialPrint	2
+../Core/Src/serial.c:37:6:serialPrintln	2
+../Core/Src/serial.c:51:9:serialRead	3
+../Core/Src/serial.c:69:6:serialForcePut	2
+../Core/Src/serial.c:80:6:serialClear	1
